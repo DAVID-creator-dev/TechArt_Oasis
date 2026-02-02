@@ -9,11 +9,11 @@ The project is developed in a **collaborative context**, involving multiple disc
 - **Game Programming**: system implementation, controls, and interactions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DAVID-creator-dev/TechArt_Oasis/refs/heads/main/docs/images/demo.gif" alt="demo_oasis">
+  <img src="https://raw.githubusercontent.com/DAVID-creator-dev/TechArt_Oasis/refs/heads/main/docs/images/demo_oasis.gif" alt="demo_oasis">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DAVID-creator-dev/TechArt_Oasis/refs/heads/main/docs/images/demo.gif" alt="demo_animals">
+  <img src="https://raw.githubusercontent.com/DAVID-creator-dev/TechArt_Oasis/refs/heads/main/docs/images/demo_animals.gif" alt="demo_animals">
 </p>
 
 ## Features
